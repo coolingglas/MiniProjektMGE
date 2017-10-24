@@ -1,0 +1,7 @@
+#Sun Oct 22 12:00:51 CEST 2017
+base.0=C\:\\Users\\sinth\\Downloads\\W03-ActivitiesWizard-master\\MiniProjekt2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_150276aab31f2b58b354a02a92a93cfcf1031ef4
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\sinth\\Downloads\\W03-ActivitiesWizard-master\\MiniProjekt2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ec74f50d468bc595b3b585552c4f8a7e56fd799\\classes.dex
+base.1=C\:\\Users\\sinth\\Downloads\\W03-ActivitiesWizard-master\\MiniProjekt2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3ec74f50d468bc595b3b585552c4f8a7e56fd799
+file.0=C\:\\Users\\sinth\\Downloads\\W03-ActivitiesWizard-master\\MiniProjekt2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_150276aab31f2b58b354a02a92a93cfcf1031ef4\\classes.dex
